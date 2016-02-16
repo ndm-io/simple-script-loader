@@ -1,0 +1,23 @@
+{
+  "name": "simple-script-loader",
+  "version": "0.1.0",
+  "description": "simple-script-loader",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndm-io/simple-script-loader.git"
+  },
+  "author": "Rob Atherton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndm-io/simple-script-loader/issues"
+  },
+  "homepage": "https://github.com/ndm-io/simple-script-loader#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.2"
+  }
+}
